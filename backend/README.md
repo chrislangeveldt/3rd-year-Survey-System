@@ -4,6 +4,8 @@ I suggest using MySQL Workbench.
 
 You can find the info needed to connect in 'project/settings.py' in the 'DATABASES' variable.
 
+## Note that the AWS hosted database has been closed.
+
 # How To Run Backend
 
 From this directory run: 'python manage.py runserver'
